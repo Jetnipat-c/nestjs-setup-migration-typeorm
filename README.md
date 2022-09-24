@@ -1,3 +1,14 @@
+## Installation
+
+```bash
+$ npm run migration:create --name=SeedUserData
+```
+
+## Ref
+
+- Github - https://github.com/sramocki/nestjs-typeorm-example-migrations
+- Stackoverflow - https://stackoverflow.com/questions/71879806/how-can-i-specify-the-migrations-directory-for-typeorm-cli
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
