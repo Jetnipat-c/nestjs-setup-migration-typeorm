@@ -1,8 +1,9 @@
-## Installation
+## Command run migration
 
 ```bash
 $ npm run migration:create --name=SeedUserData
 ```
+<p>* Note when migration:generate must be delete or drop database (first time generate)</p>
 
 ## Ref
 
